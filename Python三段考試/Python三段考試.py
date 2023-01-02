@@ -67,13 +67,6 @@ while True:
     user_input = input()
     if user_input.upper() == 'Q':
         break
-
-
-
-
-
-
-
 #6.撲克牌花色整理
 import random
 import collections
